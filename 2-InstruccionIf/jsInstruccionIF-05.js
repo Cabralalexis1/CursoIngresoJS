@@ -1,4 +1,7 @@
-function mostrar()
+ 
+ /*ALEXIS RAMON CABRAL BARRIOS*/
+ 
+ function mostrar()
 {
 	//tomo la edad*/
 
